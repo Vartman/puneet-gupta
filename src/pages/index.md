@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, Chotu, I Love you.
+  title: Hi, Puneet Boss, we will miss you.
   section_id: hero
   component: HeroBlock
   content: "“Farewell, to the boss who showed us that secret to success lies in simple
