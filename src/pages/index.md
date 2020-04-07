@@ -77,5 +77,6 @@ menus:
     title: Home
     weight: 1
 template: home
+techm: "/images/Pictures-Hd-Superman-Backgrounds-620x429.jpg"
 
 ---
