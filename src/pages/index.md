@@ -10,10 +10,10 @@ sections:
     things like hard work and perseverance.”"
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Messages from the team
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Kabhi Alvida Na Kehna
   layout_style: mosaic
   num_projects_displayed: 6
   view_all_text: View All
