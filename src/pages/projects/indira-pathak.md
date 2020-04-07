@@ -3,8 +3,8 @@ template: project
 title: Indira Pathak
 subtitle: "'Hum jahan khade ho jaate hain, line wahi se shuru hoti hain'"
 date: 2020-04-07T18:30:00Z
-thumb_img_path: "/images/Indira Maam.jpg"
-content_img_path: "/images/Indira Maam.jpg"
+thumb_img_path: "/images/Indira Maam (1).jpg"
+content_img_path: "/images/Indira Maam (1).jpg"
 
 ---
 As the biggest living legend in Bollywood, Amitabh is idolised for his stellar performances in films and his untouchable star-like status.
