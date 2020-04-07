@@ -72,15 +72,6 @@ sections:
   section_id: contact
   component: ContactBlock
   subtitle: An optional subtitle of the section
-- template: contentblock
-  component: ContentBlock
-  type: contentblock
-  title: abababababa
-  section_id: ''
-  subtitle: ''
-  content: ''
-  image: ''
-  actions: []
 menus:
   main:
     title: Home
