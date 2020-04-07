@@ -6,8 +6,8 @@ sections:
   title: Hi, Puneet Boss, we will miss you.
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: "“Farewell, to the boss who showed us that secret to success lies in simple
+    things like hard work and perseverance.”"
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
