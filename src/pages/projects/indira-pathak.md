@@ -7,7 +7,7 @@ thumb_img_path: "/images/Indira Maam.jpg"
 content_img_path: "/images/Indira Maam.jpg"
 
 ---
-As the biggest living legend in Bollywood, Amitabh is idolized for his stellar performances in films and his untouchable star-like status.
+As the biggest living legend in Bollywood, Amitabh is idolised for his stellar performances in films and his untouchable star-like status.
 
 Just looking at his decades-long filmography, Big B has paved a career studded with blockbuster hits and tremendous box office success.
 
