@@ -4,8 +4,8 @@ title: Pooja Kumari
 subtitle: "'Aaj mere paas paisa hai, bangla hai, gaadi hai, naukar hai, bank balance
   hai, aur tumhare paas kya hai?” Ravi: “Mere paas Maa hai!'"
 date: 2020-04-07T18:30:00Z
-thumb_img_path: "/images/P2.jpg"
-content_img_path: "/images/P2.jpg"
+thumb_img_path: "/images/P2 (1).jpg"
+content_img_path: "/images/P2 (1).jpg"
 
 ---
 As the biggest living legend in Bollywood, Amitabh is idolised for his stellar performances in films and his untouchable star-like status.
