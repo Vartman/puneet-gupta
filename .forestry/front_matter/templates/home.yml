@@ -27,11 +27,12 @@ fields:
   default: home
   config:
     required: true
-- name: techm
+- name: team_india_sbu
   type: file
   config:
     maxSize: 250
-  label: TechM
-  description: kjhgfdsasdfghjhgfdsasdfghjhgfsasdfghjhgfdsdfghjhgfdsasdfghgfdsasdfghgfdsadfghgfdsdfghgf
+  label: Team India SBU
+  description: Yaad teri aayegi, mujhko bada satayegi
+  hidden: false
 pages:
 - src/pages/index.md
