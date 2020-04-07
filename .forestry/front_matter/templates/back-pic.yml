@@ -1,4 +1,10 @@
 ---
 label: Back pic
 hide_body: false
-fields: []
+fields:
+- name: back
+  type: file
+  config:
+    maxSize: 250
+  label: back
+  description: back
