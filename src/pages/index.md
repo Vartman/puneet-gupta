@@ -6,8 +6,8 @@ sections:
   title: Hi, Puneet Boss, we will miss you.
   section_id: hero
   component: HeroBlock
-  content: "“Farewell, to the boss who showed us that secret to success lies in simple
-    things like hard work and perseverance.”"
+  content: _“Farewell, to the boss who showed us that secret to success lies in simple
+    things like hard work and perseverance.”_
 - type: portfolioblock
   template: portfolioblock
   title: Messages from the team
