@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: We are SBU India
-img_path: images/about.jpg
+img_path: "/images/group (1).jpg"
 menus:
   main:
     title: About
