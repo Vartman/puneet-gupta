@@ -1,7 +1,9 @@
 ---
 template: project
 title: Vartman Singh Chauhan
-subtitle: "'Rishte main hum tumhare baap hote hain, naam hai Shahenshah'"
+subtitle: "'Mausi aap Veeru ko nahi jaanati, wishwaas kijiye wo is tarah kaa insaan
+  nahi hai. Ek baar shaadi ho gayi to woh us gaane-waali ke ghar jaanaa band kar degaa.
+  bas, sharaab apne aap chhoot jaayegi.'"
 date: 2020-04-07T18:30:00Z
 thumb_img_path: "/images/P3.jpg"
 content_img_path: "/images/P3.jpg"
