@@ -27,12 +27,5 @@ fields:
   default: home
   config:
     required: true
-- name: team_india_sbu
-  type: file
-  config:
-    maxSize: 250
-  label: Team India SBU
-  description: Yaad teri aayegi, mujhko bada satayegi
-  hidden: false
 pages:
 - src/pages/index.md
