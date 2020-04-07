@@ -78,5 +78,6 @@ menus:
     weight: 1
 template: home
 techm: "/images/Pictures-Hd-Superman-Backgrounds-620x429.jpg"
+team_india_sbu: "/images/Online-Superman-Backgrounds-Hd-620x349.jpg"
 
 ---
