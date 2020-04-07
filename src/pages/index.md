@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, Puneet Boss, we love you.
+  title: Hi, Puneet Boss, we will miss you.
   section_id: hero
   component: HeroBlock
   content: This section can contain a subtitle or tagline. The recommended length
