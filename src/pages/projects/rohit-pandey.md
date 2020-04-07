@@ -4,8 +4,8 @@ title: Rohit Pandey
 subtitle: "'Pura naam, Vijay Dinanath Chauhan, baap ka naam, Dinanath Chauhan, maa
   ka naam, Suhasini Chauhan, gaon Mandwa, umar chhattis saal'"
 date: 2020-04-07T18:30:00Z
-thumb_img_path: "/images/P1.jpg"
-content_img_path: "/images/P1.jpg"
+thumb_img_path: "/images/P1 (1).jpg"
+content_img_path: "/images/P1 (1).jpg"
 
 ---
 As the biggest living legend in Bollywood, Amitabh is idolised for his stellar performances in films and his untouchable star-like status.
