@@ -4,8 +4,8 @@ title: Ashwani Agarwal
 subtitle: "'Jab tak baithne ko na kaha jaaye sharafat se khade raho. Yeh police station
   hai tumhare baap ka ghar nahi'"
 date: 2020-04-07T18:30:00Z
-thumb_img_path: "/images/Ashwani Sir.jpg"
-content_img_path: "/images/Ashwani Sir.jpg"
+thumb_img_path: "/images/Ashwani Sir (1).jpg"
+content_img_path: "/images/Ashwani Sir (1).jpg"
 
 ---
 As the biggest living legend in Bollywood, Amitabh is idolised for his stellar performances in films and his untouchable star-like status.
