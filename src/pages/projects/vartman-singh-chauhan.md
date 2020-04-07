@@ -5,8 +5,8 @@ subtitle: "'Mausi aap Veeru ko nahi jaanati, wishwaas kijiye wo is tarah kaa ins
   nahi hai. Ek baar shaadi ho gayi to woh us gaane-waali ke ghar jaanaa band kar degaa.
   bas, sharaab apne aap chhoot jaayegi.'"
 date: 2020-04-07T18:30:00Z
-thumb_img_path: "/images/P3.jpg"
-content_img_path: "/images/P3.jpg"
+thumb_img_path: "/images/P3 (1).jpg"
+content_img_path: "/images/P3 (1).jpg"
 
 ---
 As the biggest living legend in Bollywood, Amitabh is idolised for his stellar performances in films and his untouchable star-like status.
