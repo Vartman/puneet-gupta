@@ -4,8 +4,8 @@ title: Tapan Sharma
 subtitle: "‘Jali ko aag kehte hain, bhuji ko raakh kehte hain… jis raakh se barood
   bane, use Vishwanath kehte hain’"
 date: 2020-04-07T18:30:00Z
-thumb_img_path: "/images/DSC_8408-1.JPG"
-content_img_path: "/images/DSC_8408-1.JPG"
+thumb_img_path: "/images/Tapan Boss.jpg"
+content_img_path: "/images/Tapan Boss2.jpg"
 
 ---
 
