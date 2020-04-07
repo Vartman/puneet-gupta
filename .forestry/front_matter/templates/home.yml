@@ -27,5 +27,10 @@ fields:
   default: home
   config:
     required: true
+- name: techm
+  type: file
+  config:
+    maxSize: 250
+  label: TechM
 pages:
 - src/pages/index.md
