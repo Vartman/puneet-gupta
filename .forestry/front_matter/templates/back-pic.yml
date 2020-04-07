@@ -8,3 +8,7 @@ fields:
     maxSize: 250
   label: back
   description: back
+- name: aaa
+  type: boolean
+  label: aaa
+  description: add
