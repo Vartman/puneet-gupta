@@ -5,6 +5,10 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e8cda3ec9fb630014b6bd55/webhook/forestry
 sections:
 - type: document
+  path: src/pages/testimonial.md
+  label: Testimonial
+  match: "**/*"
+- type: document
   path: site-metadata.json
   label: Global Site Config
   templates:
