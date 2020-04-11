@@ -44,7 +44,7 @@ sections:
   label: Page
   create: all
   match: "**/*"
-  exclude: "{posts/**,index.md,blog/index.md,portfolio/index.md,contact.md}"
+  exclude: "{posts/**,index.md,testimonial.md,blog/index.md,portfolio/index.md,contact.md}"
   templates:
   - page
 - type: directory
