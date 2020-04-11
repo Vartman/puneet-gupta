@@ -263,9 +263,9 @@
     .service,
     .testimonial {
       box-sizing: border-box;
-      -webkit-flex: 0 0 50%;
-      -ms-flex: 0 0 50%;
-      flex: 0 0 50%;
+      -webkit-flex: 0 0 100%;
+      -ms-flex: 0 0 100%;
+      flex: 0 0 100%;
       padding-left: 0.83333rem;
       padding-right: 0.83333rem;
     }
@@ -285,9 +285,9 @@
   }
 
   .block-inside {
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
+    // display: -ms-flexbox;
+    // display: -webkit-flex;
+    // display: flex;
     margin: 0 -0.83333rem;
 
     .block-header,
@@ -298,16 +298,16 @@
     }
 
     .block-header {
-      -webkit-flex: 4;
-      -ms-flex: 4;
-      flex: 4;
+      // -webkit-flex: 4;
+      // -ms-flex: 4;
+      // flex: 4;
       margin-bottom: 1.66667em;
     }
 
     .block-content {
-      -webkit-flex: 8;
-      -ms-flex: 8;
-      flex: 8;
+      // -webkit-flex: 8;
+      // -ms-flex: 8;
+      // flex: 8;
     }
 
     .block-title,

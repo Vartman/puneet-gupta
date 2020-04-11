@@ -6,13 +6,13 @@ import {htmlToReact, safePrefix} from '../utils';
 export default class TestimonialsBlock extends React.Component {
     render() {
         return (
-            <section id={_.get(this.props, 'section.section_id')} className="block testimonials-block outer">
+            <section id={_.get(this.props, 'section.section_id')} className="outer">
               <div className="inner">
-                <div className="block-inside">
-                  <div className="block-header">
-                    <h2 className="block-title line-top">{_.get(this.props, 'section.title')}</h2>
+                {/*<div className="block-inside">*/}
+                  <div className="page-header inner-small">
+                    <h1 className="page-title line-top">{_.get(this.props, 'section.title')}</h1>
                     {_.get(this.props, 'section.subtitle') && 
-                    <p className="block-subtitle">
+                    <p className="page-subtitle">
                       {htmlToReact(_.get(this.props, 'section.subtitle'))}
                     </p>
                     }
@@ -34,7 +34,7 @@ export default class TestimonialsBlock extends React.Component {
                     </div>
                   </div>
                   }
-                </div>
+                {/*</div>*/}
               </div>
             </section>
         );
