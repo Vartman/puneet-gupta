@@ -6,12 +6,7 @@ import {Link, safePrefix} from '../utils';
 export default class Header extends React.Component {
     render() {
         return (
-            <header id="masthead" class="site-header outer" style="
-    padding-bottom: 10.000;
-    padding-top: 15px;
-    padding-bottom: 10px;
-"
->
+ <header id="masthead" className="site-header outer">
               <div className="inner">
                 <div className="site-header-inside">
                   <div className="site-branding">
