@@ -9,7 +9,7 @@ sections:
   content: |-
     _“Farewell, to the boss who showed us that secret to success lies in simple things like hard work and perseverance.”_
 
-    ![](/images/Board.JPG)
+    ![](/images/Board3compressed.JPG)
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
@@ -26,6 +26,15 @@ sections:
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
       interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
       vel posuere justo laoreet.
+- template: contentblock
+  component: ContentBlock
+  type: contentblock
+  title: ''
+  section_id: ''
+  subtitle: ''
+  content: ''
+  image: ''
+  actions: []
 menus:
   main:
     title: Home
