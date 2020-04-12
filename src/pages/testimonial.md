@@ -1,12 +1,12 @@
 ---
-title: Kya Bolreli Hai re Public
+title: Testimonial
 sections:
 - type: testimonialsblock
   template: testimonialsblock
-  title: Testimonials
+  title: Kya Bolreli Hai re Public
   section_id: testimonials
   component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Yeh Jo Public Hai Sab Janti Hai
   testimonialslist:
   - author: Vartman
     avatar: images/[001966].jpg
