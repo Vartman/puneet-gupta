@@ -10,6 +10,14 @@ sections:
   component: HeroBlock
   content: "![](/images/Board3compressed.JPG)"
   profilepic: "/images/Puneet.jpg"
+  second_title: About Puneet Gupta
+  second_subtitle: 'A small introduction to Puneet '
+  second_content: "**This is a paragraph**. Pellentesque habitant morbi _tristique
+    senectus et netus et malesuada_ fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com),
+    feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet
+    quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+    Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat
+    wisi, condimentum sed, commodo vitae, ornare sit amet, wisi."
 menus:
   main:
     title: Home
