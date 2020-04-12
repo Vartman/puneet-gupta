@@ -32,9 +32,3 @@ fields:
   default: project
   config:
     required: true
-pages:
-- src/pages/projects/ashwani-agarwal.md
-- src/pages/projects/indira-pathak.md
-- src/pages/projects/pooja-kumari.md
-- src/pages/projects/rohit-pandey.md
-- src/pages/projects/tapan-sharma.md
