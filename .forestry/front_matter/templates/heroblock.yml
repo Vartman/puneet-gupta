@@ -7,6 +7,17 @@ fields:
   name: title
   label: Title
   description: The title of the section.
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: subtitle
+  hidden: false
+- name: profilepic
+  type: file
+  config:
+    maxSize: 250
+  label: Profilepic
 - type: text
   name: section_id
   label: Element ID
