@@ -9,6 +9,7 @@ sections:
   section_id: hero
   component: HeroBlock
   content: "![](/images/Board3compressed.JPG)"
+  profilepic: "/images/Puneet.jpg"
 menus:
   main:
     title: Home
