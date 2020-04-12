@@ -24,6 +24,19 @@ export default class HeroBlock extends React.Component {
                     {markdownify(_.get(this.props, 'section.content'))}
                   </div>
                 </div>
+                <div className="page-header inner-small">
+                  <h1 className="page-title line-top">{_.get(this.props, 'section.second_title')}</h1>
+                  {_.get(this.props, 'section.second_subtitle') && 
+                  <p className="page-subtitle">
+                    {_.get(this.props, 'section.second_subtitle')}
+                  </p>
+                  }
+                </div>
+                <div className="block-content">
+                  <div className="block-copy">
+                    {markdownify(_.get(this.props, 'section.second_content'))}
+                  </div>
+                </div>
               </div>
             </section>
         );
