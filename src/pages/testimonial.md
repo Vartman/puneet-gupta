@@ -1,5 +1,5 @@
 ---
-title: Testimonial
+title: Kya Bolreli Hai re Public
 sections:
 - type: testimonialsblock
   template: testimonialsblock
