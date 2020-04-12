@@ -10,31 +10,40 @@ sections:
     _“Farewell, to the boss who showed us that secret to success lies in simple things like hard work and perseverance.”_
 
     ![](/images/Board3compressed.JPG)
-- type: testimonialsblock
-  template: testimonialsblock
-  title: Testimonials
-  section_id: testimonials
-  component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
-  testimonialslist:
-  - author: John Doe
-    avatar: images/john_doe.jpg
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - author: Jane Roe
-    avatar: images/jane_roe.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
 - template: contentblock
   component: ContentBlock
   type: contentblock
-  title: ''
+  title: About Puneet Gupta
   section_id: ''
-  subtitle: ''
-  content: ''
+  subtitle: Small Intro
   image: ''
   actions: []
+  content: |-
+    Relationship is like a bank, you can withdraw as much u deposit.
+
+    I will not let anyone come in between me and my business..!!!
+
+    Look…..Relationship is like a bank, you can withdraw as much u deposit.
+
+    I will not let anyone come in between me and my business..!!!
+
+    Look…..Relationship is like a bank, you can withdraw as much u deposit.
+
+    I will not let anyone come in between me and my business..!!!
+
+    Look…..Relationship is like a bank, you can withdraw as much u deposit.
+
+    I will not let anyone come in between me and my business..!!!
+
+    Look…..Relationship is like a bank, you can withdraw as much u deposit.
+
+    I will not let anyone come in between me and my business..!!!
+
+    Look…..Relationship is like a bank, you can withdraw as much u deposit.
+
+    I will not let anyone come in between me and my business..!!!
+
+    Look…..
 menus:
   main:
     title: Home
