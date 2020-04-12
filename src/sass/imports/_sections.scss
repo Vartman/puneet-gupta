@@ -325,6 +325,11 @@
     -webkit-flex: 0 0 20%;
     -ms-flex: 0 0 20%;
     flex: 0 0 20%;
+    padding-right: 1em;
+    img{
+      border-radius: 50%;
+      border: 1px solid #eaeaea;
+    }
   }
   .rhs{
     box-sizing: border-box;
