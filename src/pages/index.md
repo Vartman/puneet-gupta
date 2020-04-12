@@ -18,32 +18,15 @@ sections:
   subtitle: Small Intro
   image: ''
   actions: []
-  content: |-
-    Relationship is like a bank, you can withdraw as much u deposit.
-
-    I will not let anyone come in between me and my business..!!!
-
-    Look…..Relationship is like a bank, you can withdraw as much u deposit.
-
-    I will not let anyone come in between me and my business..!!!
-
-    Look…..Relationship is like a bank, you can withdraw as much u deposit.
-
-    I will not let anyone come in between me and my business..!!!
-
-    Look…..Relationship is like a bank, you can withdraw as much u deposit.
-
-    I will not let anyone come in between me and my business..!!!
-
-    Look…..Relationship is like a bank, you can withdraw as much u deposit.
-
-    I will not let anyone come in between me and my business..!!!
-
-    Look…..Relationship is like a bank, you can withdraw as much u deposit.
-
-    I will not let anyone come in between me and my business..!!!
-
-    Look…..
+  content: ''
+- template: postsblock
+  component: PostsBlock
+  type: postsblock
+  title: BABSBSB
+  section_id: heyy
+  subtitle: kjhgfds
+  num_posts_displayed: 1
+  actions: []
 menus:
   main:
     title: Home
