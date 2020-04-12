@@ -6,7 +6,7 @@ sections:
   title: Kya Bolreli Hai re Public
   section_id: testimonials
   component: TestimonialsBlock
-  subtitle: Yeh Jo Public Hai Sab Janti Hai
+  subtitle: Yeh Jo Public Hai Yeh Sab Janti Hai
   testimonialslist:
   - author: Vartman
     avatar: images/[001966].jpg
