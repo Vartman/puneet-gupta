@@ -4,13 +4,11 @@ sections:
 - type: heroblock
   template: heroblock
   title: Hi, Puneet Boss, we will miss you.
-  subtitle: “Farewell, to the boss who showed us that secret to success lies in simple things like hard work and perseverance.”
+  subtitle: "“Farewell, to the boss who showed us that secret to success lies in simple
+    things like hard work and perseverance.”"
   section_id: hero
   component: HeroBlock
-  content: |-
-    _“Farewell, to the boss who showed us that secret to success lies in simple things like hard work and perseverance.”_
-
-    ![](/images/Board3compressed.JPG)
+  content: "![](/images/Board3compressed.JPG)"
 menus:
   main:
     title: Home
