@@ -1,5 +1,5 @@
 ---
-title: Amout Puneet Gupta
+title: About Puneet Gupta
 subtitle: 'A small introduction to Puneet '
 menus:
   main:
