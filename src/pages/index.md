@@ -10,23 +10,23 @@ sections:
     _“Farewell, to the boss who showed us that secret to success lies in simple things like hard work and perseverance.”_
 
     ![](/images/Board3compressed.JPG)
-- template: contentblock
-  component: ContentBlock
-  type: contentblock
+- template: servicesblock
+  component: ServicesBlock
+  type: servicesblock
   title: About Puneet Gupta
-  section_id: ''
-  subtitle: Small Intro
-  image: ''
-  actions: []
-  content: ''
-- template: postsblock
-  component: PostsBlock
-  type: postsblock
-  title: BABSBSB
-  section_id: heyy
-  subtitle: kjhgfds
-  num_posts_displayed: 1
-  actions: []
+  section_id: About Puneet
+  subtitle: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
+    non interdum. Pellentesque tortor ligula, gravida ac commodo eu. Vestibulum a
+    nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque
+    tortor ligula, gravida ac commodo eu. Vestibulum a nunc ut eros condimentum posuere.
+    Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac
+    commodo eu.Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
+    nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.Vestibulum
+    a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque
+    tortor ligula, gravida ac commodo eu. Vestibulum a nunc ut eros condimentum posuere.
+    Nullam dapibus quis nunc non interdum. Pellentesque tortor ligula, gravida ac
+    commodo eu.
+  serviceslist: []
 menus:
   main:
     title: Home
