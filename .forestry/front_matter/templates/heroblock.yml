@@ -44,3 +44,22 @@ fields:
   default: heroblock
   config:
     required: true
+- name: second_title
+  type: text
+  config:
+    required: false
+  label: second title
+- name: second_subtitle
+  type: text
+  config:
+    required: false
+  label: second subtitle
+- name: second_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: second content
