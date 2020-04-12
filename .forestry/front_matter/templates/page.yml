@@ -24,5 +24,6 @@ fields:
   config:
     required: true
 pages:
+- src/pages/about-puneet-gupta.md
 - src/pages/about.md
 - src/pages/style-guide.md
