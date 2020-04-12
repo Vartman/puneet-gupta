@@ -9,7 +9,15 @@ export default class HeroBlock extends React.Component {
             <section id={_.get(this.props, 'section.section_id')} className="block hero-block outer">
               <div className="inner">
                 <div className="block-header">
-                  <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
+                  <div className="wrapper">
+                    <div className="lhs">
+                      <img src="https://recoverycafe.org/wp-content/uploads/2019/06/generic-user.png" width="200" alt=""/>
+                    </div>
+                    <div className="rhs">
+                      <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
+                      <p>{_.get(this.props, 'section.subtitle')}</p>
+                    </div>
+                  </div>
                 </div>
                 <div className="block-content">
                   <div className="block-copy">

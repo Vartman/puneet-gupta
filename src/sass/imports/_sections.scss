@@ -316,3 +316,23 @@
     }
   }
 }
+
+.wrapper{
+  display: flex;
+  align-items: center;
+  .lhs{
+    box-sizing: border-box;
+    -webkit-flex: 0 0 20%;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+  }
+  .rhs{
+    box-sizing: border-box;
+    -webkit-flex: 0 0 80%;
+    -ms-flex: 0 0 80%;
+    flex: 0 0 80%;
+    p{
+      margin-bottom: 0;
+    }
+  }
+}
