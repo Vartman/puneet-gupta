@@ -11,7 +11,7 @@ export default class HeroBlock extends React.Component {
                 <div className="block-header">
                   <div className="wrapper">
                     <div className="lhs">
-                      <img src="https://recoverycafe.org/wp-content/uploads/2019/06/generic-user.png" width="200" alt=""/>
+                      <img src={_.get(this.props, 'section.profilepic')} width="200" alt=""/>
                     </div>
                     <div className="rhs">
                       <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
