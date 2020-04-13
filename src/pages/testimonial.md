@@ -6,7 +6,7 @@ sections:
   title: Kya Bolreli Hai re Public
   section_id: testimonials
   component: TestimonialsBlock
-  subtitle: Yeh Jo Public Hai Yeh Sab Janti Hai
+  subtitle: Kya Keh Rahe hai 4 Log...?
   testimonialslist:
   - author: Vartman Singh Chauhan
     avatar: images/Online-Superman-Backgrounds-Hd-620x349.jpg
