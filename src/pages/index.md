@@ -10,7 +10,7 @@ sections:
   component: HeroBlock
   content: "![](/images/Board3compressed.JPG)"
   profilepic: "/images/Puneet.jpg"
-  second_title: About Puneet Gupta
+  second_title: Kon hai Woh Kon hai Woh...Kaha se Woh Aaay...
   second_subtitle: Mujhko Pehchan lo Mein hu Kon
   second_content: "**This is a paragraph**. Pellentesque habitant morbi _tristique
     senectus et netus et malesuada_ fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com),
