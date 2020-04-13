@@ -9,7 +9,7 @@ sections:
   subtitle: Yeh Jo Public Hai Yeh Sab Janti Hai
   testimonialslist:
   - author: Vartman
-    avatar: images/[001966].jpg
+    avatar: images/Online-Superman-Backgrounds-Hd-620x349.jpg
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu. Vestibulum
       a nunc ut eros condimentum posuere. Nullam dapibus quis nunc non interdum. Pellentesque
