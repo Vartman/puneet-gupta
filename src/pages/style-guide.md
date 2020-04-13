@@ -1,10 +1,7 @@
 ---
 title: About Puneet Gupta
 subtitle: 'A small introduction to Puneet '
-menus:
-  main:
-    title: Style Guide
-    weight: 3
+
 template: page
 img_path: ''
 
