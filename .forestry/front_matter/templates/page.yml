@@ -25,5 +25,6 @@ fields:
     required: true
 pages:
 - src/pages/about.md
+- src/pages/kya-bol-re-li-hai-public.md
 - src/pages/style-guide.md
 - src/pages/timeline.md
