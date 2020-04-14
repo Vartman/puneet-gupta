@@ -49,11 +49,13 @@ fields:
   config:
     required: false
   label: second title
+  hidden: true
 - name: second_subtitle
   type: text
   config:
     required: false
   label: second subtitle
+  hidden: true
 - name: second_content
   type: textarea
   default: ''
@@ -63,3 +65,4 @@ fields:
     schema:
       format: markdown
   label: second content
+  hidden: true
