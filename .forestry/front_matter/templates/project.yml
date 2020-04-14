@@ -32,3 +32,5 @@ fields:
   default: project
   config:
     required: true
+pages:
+- src/pages/projects/ateet-dhawan.md
