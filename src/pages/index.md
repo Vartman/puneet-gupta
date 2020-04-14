@@ -18,9 +18,9 @@ sections:
   layout_style: mosaic
   type: portfolioblock
   num_projects_displayed: 10
-  title: ''
+  title: Kya Bolreli Hai re Public
   section_id: ''
-  subtitle: ''
+  subtitle: Kya Keh Rahe hai 4 Log...?
   view_all_text: ''
   view_all_url: ''
 menus:
