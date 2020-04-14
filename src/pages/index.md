@@ -22,7 +22,7 @@ sections:
   section_id: ''
   subtitle: Kya Keh Rahe hai 4 Log...?
   view_all_text: ''
-  view_all_url: ''
+  view_all_url: https://puneet-gupta.netlify.com/portfolio/
 menus:
   main:
     title: Home
