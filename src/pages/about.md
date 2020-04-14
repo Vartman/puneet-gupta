@@ -1,7 +1,7 @@
 ---
-title: About Us
-subtitle: We are SBU India
-img_path: "/images/group (1).jpg"
+title: Kon Hai woh...Kon Hai Woh
+subtitle: About Puneet
+img_path: "/images/Board3compressed.JPG"
 menus:
   main:
     title: About
