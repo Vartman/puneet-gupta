@@ -34,3 +34,4 @@ fields:
     required: true
 pages:
 - src/pages/projects/ateet-dhawan.md
+- src/pages/projects/sanjeev-sherry.md
