@@ -18,6 +18,16 @@ sections:
     quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
     Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat
     wisi, condimentum sed, commodo vitae, ornare sit amet, wisi."
+- template: portfolioblock
+  component: PortfolioBlock
+  layout_style: mosaic
+  type: portfolioblock
+  num_projects_displayed: 10
+  title: ''
+  section_id: ''
+  subtitle: ''
+  view_all_text: ''
+  view_all_url: ''
 menus:
   main:
     title: Home
